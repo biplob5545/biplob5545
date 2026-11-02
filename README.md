@@ -1,4 +1,4 @@
-<a href="https://ibb.co.com/qLNNvNNQ"><img src="https://i.ibb.co.com/20vvTvv4/github-banner-1.jpg" alt="web designer wordpress developer" border="0"></a>
+<a href="https://ibb.co.com/qLNNvNNQ"><img src="https://i.ibb.co.com/20vvTvv4/github-banner-1.jpg" alt="web designer wordpress developer"></a>
 <h3 align="center">WordPress Developer & Web Designer | Crafting Modern, Responsive & High-Performance Websites | WordPress Customization & Creative Web Solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplob5545&label=Profile%20views&color=0e75b6&style=flat" alt="biplob5545" /> </p>
