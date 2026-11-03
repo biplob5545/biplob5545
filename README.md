@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Advanced WordPress Customisation, PHP & JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-biplob-07644b356/](https://www.linkedin.com/in/biplob5545/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/biplob5545/](https://www.linkedin.com/in/biplob5545/)
 
 - 💬 Ask me about **WordPress, Elementor, Theme Customization, Website Design & Responsive Development**
 
